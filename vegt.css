@@ -1,0 +1,48 @@
+.pic {
+    margin: 10px;
+    height: 180px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.head {
+    font-size: 30px;
+    font-weight: 500;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.main {
+    background-color: rgb(220, 230, 240);
+}
+
+.cost {
+    font-size: 20px;
+}
+
+.return {
+    border-radius: 8px;
+}
+
+.name {
+    font-style: italic;
+    font-size: 20px;
+    padding-top: 10px;
+    font-family: "Roboto";
+}
+
+.back {
+    /*background-color:#ffffff;
+    margin:60px;*/
+    padding: 10px;
+}
+
+.card1 {
+    border-radius: 20px;
+    box-shadow: 3px 3px rgb(66, 66, 66);
+}
+
+.button {
+    margin: 10px;
+}
